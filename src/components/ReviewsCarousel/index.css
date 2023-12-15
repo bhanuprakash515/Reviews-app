@@ -1,0 +1,26 @@
+/* Write your code here */
+.container {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-image: url('https://assets.ccbp.in/frontend/react-js/reviews-bg.png');
+  font-family: 'Roboto';
+}
+
+.card-container {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.heading {
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-size: 35px;
+}
+.button {
+  background-color: transparent;
+  border: 0px;
+  margin: 20px;
+}
